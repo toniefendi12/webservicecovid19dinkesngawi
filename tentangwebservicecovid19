@@ -1,3 +1,4 @@
 Web service ini dikembangkan dengan menggunakan framework laravel lumen versi 7.0.3
 dengan minimal php requirement >= 7.2 yang harus diinstal di hosting web server.
 Web service ini dapat diakses di alamat : https://apicovid19.ngawigo.id/
+dengan api_token = $2y$10$7DaHjIBSB1ADhSXC8cUT5.v047OQHGKTPUyqV/XiknVpv3fqbEw5W
